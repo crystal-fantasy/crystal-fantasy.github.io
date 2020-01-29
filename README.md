@@ -14,7 +14,7 @@
     <div class="top-bar">
       <div class="top-bar-left">
         <ul class="menu">
-          <li class="menu-text agilephd">AgilePhD</li>
+          <li class="menu-text AlyssiaGray">AlyssiaGray</li>
         </ul>
       </div>
       <div class="top-bar-right">
@@ -39,14 +39,10 @@
       <div class="medium-6 columns medium-pull-6">
         <h2>Agile Project Management</h2>
         <p>
-          As an experienced agile project manager, AgilePhD is the niche provider
-          clients seek out when they are looking to implement business-enhancing,
-          agile PMO services that improve project and portfolio performance.
+          As an inexperienced student, I'm trying to learn as much as can before graduation.
         </p>
-
       </div>
     </div>
-
     <div class="row">
       <div class="medium-4 columns">
         <h3>Project Management</h3>
