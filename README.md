@@ -1,4 +1,3 @@
-<!doctype html>
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
@@ -6,7 +5,7 @@
     <title>AlyssiaGray | Welcome</title>
     <link rel="stylesheet"
       href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
-    <link rel="stylesheet" href="https://s3.amazonaws.com/agilephd/styles/main.css">
+    <link rel="stylesheet" href="https://s3.amazonaws.com/AlyssiaGray/styles/main.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   </head>
   <body>
